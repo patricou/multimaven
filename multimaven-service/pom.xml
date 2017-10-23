@@ -5,11 +5,11 @@
   <parent>
     <groupId>com.pat.multipat</groupId>
     <artifactId>multimaven</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
   <groupId>com.pat.multipat</groupId>
   <artifactId>multimaven-service</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>multimaven-service</name>
   <url>http://maven.apache.org</url>
   <properties>
